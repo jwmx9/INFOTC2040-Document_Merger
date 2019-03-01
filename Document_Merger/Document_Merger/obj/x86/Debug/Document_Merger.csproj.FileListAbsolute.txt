@@ -1,0 +1,6 @@
+/Users/JohnWilliams/Documents/IT2040/Document_Merger/Document_Merger/bin/Debug/Document_Merger.exe
+/Users/JohnWilliams/Documents/IT2040/Document_Merger/Document_Merger/bin/Debug/Document_Merger.pdb
+/Users/JohnWilliams/Documents/IT2040/Document_Merger/Document_Merger/obj/x86/Debug/Document_Merger.csprojAssemblyReference.cache
+/Users/JohnWilliams/Documents/IT2040/Document_Merger/Document_Merger/obj/x86/Debug/Document_Merger.csproj.CoreCompileInputs.cache
+/Users/JohnWilliams/Documents/IT2040/Document_Merger/Document_Merger/obj/x86/Debug/Document_Merger.exe
+/Users/JohnWilliams/Documents/IT2040/Document_Merger/Document_Merger/obj/x86/Debug/Document_Merger.pdb
